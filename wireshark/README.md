@@ -2,7 +2,15 @@
 
 This activity demonstrates how to retrieve hidden values from internet packets.
 
-Open a terminal tab in LabEx.io's Online Linux Terminal.
+## Launch VM
+
+1. Go to this [URL](https://labex.io)
+
+2. Make an account
+
+3. Start a Linux lab
+
+4. Open a terminal tab in the VM.
 
 ## In the terminal
 
