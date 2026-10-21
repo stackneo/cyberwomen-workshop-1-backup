@@ -20,13 +20,25 @@ This activity demonstrates how to retrieve hidden values from internet packets.
    sudo apt update
 ```
 
-2. Install Wireshark:
+2. Install Wireshark and Firefox:
 
 ```bash
-   sudo apt install wireshark -y
+   sudo apt install wireshark firefox -y
 ```
 
-3. Launch Wireshark:
+3. Launch Firefox:
+```bash
+   firefox
+```
+
+4. Type this link into the browser and download it:
+```bash
+   https://tinyurl.com/7yuj338u
+```
+
+5. Close Firefox
+
+6. Launch Wireshark:
 
 ```bash
    wireshark
